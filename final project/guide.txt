@@ -1,0 +1,12 @@
+~Huy Pham Bui Nhat~   
+
+
+             
+Step 0:     Must install Python language on your Computer/Laptop
+Step 1:     Create "Folder" include project
+Step 2:     Open cmd, change director to your "Folder" include your Project
+Step 3:     Create Virtual Envoiroment by command py -m venv "direct\include\env\in\your\project\folder\with\specific\name"
+Step 4:     Active your Virtual Envoiroment, find "Scripts" folder and Run "active" file, path like "..\enviromentName\Scripts\activate"
+Step 5:     Install required Library, details in "requirements.txt" file by running command prompt "pip install -r requirements.txt"
+
+
